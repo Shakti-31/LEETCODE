@@ -23,4 +23,8 @@
 |  |
 | ------- |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Shakti-31/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Shakti-31/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
