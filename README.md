@@ -4,10 +4,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shakti-31/LEETCODE/tree/master/0001-two-sum) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Shakti-31/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shakti-31/LEETCODE/tree/master/0001-two-sum) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Shakti-31/LEETCODE/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
