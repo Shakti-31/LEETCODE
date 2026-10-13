@@ -26,6 +26,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Shakti-31/LEETCODE/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Shakti-31/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Shakti-31/LEETCODE/tree/master/0197-rising-temperature) |
 | [0550-game-play-analysis-iv](https://github.com/Shakti-31/LEETCODE/tree/master/0550-game-play-analysis-iv) |
