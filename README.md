@@ -56,6 +56,7 @@
 | [1667-fix-names-in-a-table](https://github.com/Shakti-31/LEETCODE/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Shakti-31/LEETCODE/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shakti-31/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
+| [1789-primary-department-for-each-employee](https://github.com/Shakti-31/LEETCODE/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/Shakti-31/LEETCODE/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Shakti-31/LEETCODE/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Shakti-31/LEETCODE/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
