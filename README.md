@@ -56,6 +56,7 @@
 | [1661-average-time-of-process-per-machine](https://github.com/Shakti-31/LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/Shakti-31/LEETCODE/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Shakti-31/LEETCODE/tree/master/1683-invalid-tweets) |
+| [1729-find-followers-count](https://github.com/Shakti-31/LEETCODE/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shakti-31/LEETCODE/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Shakti-31/LEETCODE/tree/master/1789-primary-department-for-each-employee) |
 | [1907-count-salary-categories](https://github.com/Shakti-31/LEETCODE/tree/master/1907-count-salary-categories) |
